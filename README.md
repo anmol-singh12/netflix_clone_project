@@ -1,4 +1,4 @@
-This is a netflix clone project by anmol using html and css technology. This project is mainly make for learning purpose.
+This is a netflix clone project by anmol using html and css technology. This project is mainly made for learning purpose.
 
 Title: Netflix Clone Project Overview
 
